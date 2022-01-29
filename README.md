@@ -11,5 +11,5 @@
 
 - 📫 How to reach me:olaoluwaayanbola@gmail.com
  
-- ⚡ Fun fact: i love dinosaurs 😂
+- ⚡ Fun fact:i love books on adventure
 
