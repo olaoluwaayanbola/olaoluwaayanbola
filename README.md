@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+OLAOLU'S+GIT+HUB+PROFILE;)](https://git.io/typing-svg)
 
---My name is olaolu i am a junior software developer looking for new job opportunitie
+--My name is olaolu i am a junior software developer looking for new job opportunitieS
 
 - 🔭 I’m currently working on a currency converter web application
  
