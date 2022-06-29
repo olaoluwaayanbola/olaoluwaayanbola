@@ -13,4 +13,4 @@
  
 - ⚡ Fun fact:i love books on adventure
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoluwaayanbola&layout=compact)](https://github.com/olaoluwaayanbola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoluwaayanbola&layout=compact)](https://github.com/github-readme-stats)
