@@ -3,7 +3,7 @@
 
 --My name is olaoluwa i am a junior software developer looking for new job opportunities
 
-- 🔭 I am currently working on an E-commerce Next application with MongoDB
+- 🔭 I am currently working on an E-commerce webapp using Next.js and MongoDB
  
 - 🌱 I’m currently learning Node js and express
  
