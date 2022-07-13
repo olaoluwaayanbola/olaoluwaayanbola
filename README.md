@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on an E-commerce webapplication using Next.js and MongoDB
  
-- 🌱 I’m currently learning Node js and express
+- 🌱 Currently learning Node js and express
  
 - 👯 I’m looking to collaborate on projects based on react js
 
