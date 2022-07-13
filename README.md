@@ -3,7 +3,7 @@
 
 --My name is olaoluwa i am a junior software developer looking for new job opportunities
 
-- 🔭 I am currently working on an E-commerce webapp using Next.js and MongoDB
+- 🔭 I am currently working on an E-commerce webapplication using Next.js and MongoDB
  
 - 🌱 I’m currently learning Node js and express
  
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me:olaoluwaayanbola@gmail.com
  
-- ⚡ Fun fact:i love books on adventure
+- ⚡ Fun fact:i love books on adventure 
 
 <!-- #### Languages and Frameworks
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
