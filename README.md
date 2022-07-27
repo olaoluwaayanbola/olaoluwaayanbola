@@ -11,4 +11,4 @@
 
 - 📫 How to reach me:olaoluwaayanbola@gmail.com
  
-- ⚡ Fun fact:i love books on adventure 
+- ⚡ Fun fact:i love books on adventures
