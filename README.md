@@ -6,9 +6,7 @@
 - 🔭 I am currently working on an E-commerce webapplication using Next.js and MongoDB
  
 - 🌱 Currently learning jest
- 
-- 👯 I’m looking to collaborate on projects based on react js
 
-- 📫 How to reach me:olaoluwaayanbola@gmail.com
+- 📫 How to reach me:olaoluwaayanbola@gmail.com 
  
-- ⚡ Fun fact:i love books on adventures
+- ⚡ Fun fact:i love books on adventure
