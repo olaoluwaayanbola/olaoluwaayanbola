@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on an E-commerce webapplication using Next.js and MongoDB
  
-- 🌱 Currently learning jest
+- 🌱 Currently learning typescript
 
 - 📫 How to reach me:olaoluwaayanbola@gmail.com 
  
