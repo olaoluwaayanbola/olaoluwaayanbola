@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+LAOLU'S+GIT+HUB+PROFILE;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+OLAOLU'S+GIT+HUB+PROFILE;)](https://git.io/typing-svg)
 
 --My name is olaoluwa i am a junior software developer looking for new job opportunities
 
