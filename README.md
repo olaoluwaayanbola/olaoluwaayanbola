@@ -9,4 +9,4 @@ My name is olaoluwa i am a junior software developer looking for new job opportu
 
 - 📫 How to reach me: olaoluwaayanbola@gmail.com 
  
-- ⚡ Fun fact: i love reading books 
+- Fun fact: i love reading books 
