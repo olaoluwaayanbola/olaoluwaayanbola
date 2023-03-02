@@ -5,8 +5,8 @@ My name is olaoluwa i am a junior software developer looking for new job opportu
 
 - 🔭 I am currently working on the backend for a social media webapplication using expressjs and MongoDB
  
-- 🌱 i am currently learning cloud computing
+- 🌱 i am currently learning cloud computing 
 
 - 📫 How to reach me: olaoluwaayanbola@gmail.com 
  
-- Fun fact: i love reading books
+- Fun fact: i love reading books on adventure  
