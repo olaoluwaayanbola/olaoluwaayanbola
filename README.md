@@ -3,7 +3,7 @@
 
 My name is olaoluwa Ayanbola i am a junior software developer looking for new job opportunities
 
-- 🔭 I am currently working on the backend for a social media webapplication using expressjs and MongoDB
+- 🔭 I am currently working on the backend for a social media application using expressjs and MongoDB
  
 - 🌱 i am currently learning cloud computing 
 
