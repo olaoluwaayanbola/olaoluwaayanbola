@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+OLAOLUWA'S+GIT+HUB+PROFILE;)](https://git.io/typing-svg)
 
-My name is olaoluwa Ayanbola i am a junior software developer looking for new job opportunities
+My name is Olaoluwa Ayanbola i am a junior software developer looking for new job opportunities
 
 - 🔭 I am currently working on the backend for a social media application using expressjs and MongoDB
  
