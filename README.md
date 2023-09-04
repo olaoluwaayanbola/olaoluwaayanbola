@@ -5,9 +5,9 @@ My name is Olaoluwa Ayanbola i am a junior software developer looking for new jo
 
 - 🔭 I am currently working on the backend for a social media application using expressjs and MongoDB
  
-- 🌱 i am currently learning cloud computing 
+- 🌱 i am currently learning the agile framework
 
 - 📫 How to reach me: olaoluwaayanbola@gmail.com 
  
-- Fun fact: i love reading books on adventure and watching anime  
+- Fun fact: i love reading books on adventure and playing chess
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoluwayanbola)](https://github.com/anuraghazra/github-readme-stats) -->
