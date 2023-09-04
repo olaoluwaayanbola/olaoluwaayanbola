@@ -5,7 +5,7 @@ My name is Olaoluwa Ayanbola i am a junior software developer looking for new jo
 
 - 🔭 I am currently working on the backend for a social media application using expressjs and MongoDB
  
-- 🌱 i am currently learning the agile framework
+<!-- - 🌱 i am currently learning -->
 
 - 📫 How to reach me: olaoluwaayanbola@gmail.com 
  
